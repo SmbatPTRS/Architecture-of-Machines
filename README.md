@@ -46,6 +46,7 @@ The goal is to build intuition about how programs run at the hardware level befo
 - [Memory Reservation](notes/Memory-Reservation.md)
 - [Read & Write in Memory](notes/Read-&-Write-in-Memory.md)
 - [Modes of Addressing](notes/Modes-of-Adressing.md)
+- [Memory & I/O connection](notes/Memory-Mapped-i-o.md)
 
 ### Stack and Subroutines
 
