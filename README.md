@@ -47,10 +47,12 @@ The goal is to build intuition about how programs run at the hardware level befo
 - [Read & Write in Memory](notes/Read-&-Write-in-Memory.md)
 - [Modes of Addressing](notes/Modes-of-Adressing.md)
 - [Memory & I/O connection](notes/Memory-Mapped-i-o.md)
+- [Encodeing Immidiate Values](notes/Encodeing-Immidiate-Values.md)
 
 ### Stack and Subroutines
 
 - [Stack, Local Variables and Register Saving](notes/Stack-Local-Variables-and-RegisterSaving.md)
+- [ARM Instruction Formats](notes/ARM-Instruction-Formats.md)
 
 ### Practice
 
